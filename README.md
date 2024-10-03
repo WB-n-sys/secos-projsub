@@ -29,7 +29,7 @@ Save all the changes.
 # Rebuild the docker file, run it, and check whether it is updated.
 
 Once you make sure the contents have been updated on the running image, you should proceed as follows to save the docker file.
-# Saving your image
+# Saving your image for sharing
 Save your updated files in docker as follows:
 
     # 'docker save -o secos-projsub.tar secos-projsub'
