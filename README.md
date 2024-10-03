@@ -16,8 +16,7 @@ Once the image is running, follow the instructions on the localhost page. When r
 
 # Updates to be made
  First, prepare a PDF document of the final report. Name the PDF file as 'GroupX_Finalreport.pdf', where X is your group number.
- 
- # Following this, use  an IDE like VScode or other editors to update the source files of the cloned package.
+ Following this, use  an IDE like VScode or other editors to update the source files of the cloned package.
 
     # upload  your report (GroupX_Finalreport.pdf) file, in the resources folder.
     # Make updates in the index.html file. 
