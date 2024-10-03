@@ -6,7 +6,7 @@ Start by cloning the repository to your local machine.
 git clone https://github.com/WB-n-sys/secos-projsub.git
 
 # Building the docker image. You can use the following command to build the docker image.
-  # docker build -t secos-projsub .
+    # docker build -t secos-projsub .
 
 
 Following this, run the docker image. When running the image, update the host port number 80.
@@ -35,7 +35,7 @@ Once you make sure the contents have been updated on the running image, you shou
 # Saving your image
 Save your updated files in docker as follows:
 
-  # 'docker save -o secos-projsub.tar secos-projsub'
+    # 'docker save -o secos-projsub.tar secos-projsub'
 
  # Submission 
 
