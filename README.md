@@ -6,7 +6,7 @@ Start by cloning the repository to your local machine.
 git clone https://github.com/WB-n-sys/secos-projsub.git
 
 # Building the docker image.
-You can use the following command to build the docker image.
+You can use the following command to build the docker image (When building the image, remember to be in the directory secos-projsub-main.)
     # docker build -t secos-projsub .
 
 
