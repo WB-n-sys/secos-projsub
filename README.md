@@ -3,11 +3,12 @@ This is a repo for the SECOS project deliverable.
 Start by cloning the repository to your local machine.
 
 # Cloning the repository
-git clone https://github.com/WB-n-sys/secos-projsub.git
+    git clone https://github.com/WB-n-sys/secos-projsub.git
 
 # Building the docker image.
-You can use the following command to build the docker image (When building the image, remember to be in the directory secos-projsub-main.)
-    # docker build -t secos-projsub .
+  You can use the following command to build the docker image (When building the image, remember to be in the directory secos-projsub-main.)
+  #  
+     docker build -t secos-projsub .
 
 
 Following this, run the docker image. When running the image, update the host port number 80.
@@ -31,7 +32,8 @@ Once you make sure the contents have been updated on the running image, you shou
 # Saving your image for sharing
 Save your updated files in docker as follows:
 
-    # 'docker save -o secos-projsub.tar secos-projsub'
+    
+ docker save -o secos-projsub.tar secos-projsub
 
  # Submission 
 
