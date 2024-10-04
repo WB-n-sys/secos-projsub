@@ -31,9 +31,8 @@ Save all the changes.
 Once you make sure the contents have been updated on the running image, you should proceed as follows to save the docker file.
 # Saving your image for sharing
 Save your updated files in docker as follows:
-
-    
- docker save -o secos-projsub.tar secos-projsub
+# 
+    docker save -o secos-projsub.tar secos-projsub
 
  # Submission 
 
